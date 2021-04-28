@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">An iOS developer from Russia</h3>
 
-- 🔭 I’m currently working on **board card game**
-
+- 🔭 I’m currently working on **Board card game app**
 - 🌱 I’m currently learning **Swift, SwiftUI, Combine**
-
 - 👨‍💻 All of my projects are available at [https://apps.apple.com/by/developer/mike-mailyan/id1547807750](https://apps.apple.com/by/developer/mike-mailyan/id1547807750)
-
 - 📫 How to reach me **Mihomailian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
