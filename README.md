@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">An iOS developer from Russia</h3>
+# Hi 👋, I'm Mike
+## iOS developer from Russia 🇷🇺
 
 - 🔭 I’m currently working on **Board card game app**
 - 🌱 I’m currently learning **Swift, SwiftUI, Combine**
