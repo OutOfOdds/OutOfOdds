@@ -19,8 +19,6 @@
 
 <p align="center"><sub><code>one of them is lying.</code></sub><br><sub><code>01101111 01100100 01100100 01110011</code></sub></p>
 
-<p align="center"><img src="divider_pulse.gif" width="100%" alt=""></p>
-
 <img align="right" src="monitor.gif" width="170" alt="">
 
 ```
