@@ -1,7 +1,7 @@
 <!-- if you're reading the source, you're one of us. -->
 
 <p align="center">
-  <img src="header_slots.gif" width="100%">
+  <img src="header_signal_slots.gif" alt="odds_" width="100%">
 </p>
 
 <p align="center">
@@ -9,12 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="dice_1.gif" width="56">
-  <img src="dice_2.gif" width="56">
-  <img src="dice_3.gif" width="56">
-  <img src="dice_4.gif" width="56">
-  <img src="dice_5.gif" width="56">
-  <img src="dice_6.gif" width="56">
+  <img src="dice_roll.gif" width="100%" alt="">
 </p>
 
 <p align="center"><sub><code>one of them is lying.</code></sub><br><sub><code>01101111 01100100 01100100 01110011</code></sub></p>
