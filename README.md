@@ -60,8 +60,14 @@ drwxr-xr-x  pokerlog-ideas    whispers from players, pinned to a board.
 
 [`Numbershake`](https://github.com/OutOfOdds/Numbershake) · [`Home-Poker`](https://github.com/OutOfOdds/Home-Poker) · [`PokerLog-Site`](https://github.com/OutOfOdds/PokerLog-Site) · [`pokerlog-ideas`](https://github.com/OutOfOdds/pokerlog-ideas)
 
+### `> ps aux | grep wip`
+
 ```
--rw-------  ██████████     classified. something new is being shuffled.
+PID    STATE       PROCESS         NOTE
+0x07   sealed      capsula         opens only when the time is right.
+0x0D   dripping    drip            slowly. one drop at a time.
+0x2A   rewriting   pokerlog 2.0    the log is learning new tricks.
+0x??   ??????      ████████        and something else. you'll know when you see it.
 ```
 
 [`→ all signals on the App Store`](https://apps.apple.com/us/developer/mike-mailyan/id1547807750)
