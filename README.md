@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="assets/header.png" alt="odds_" width="100%">
+  <img src="header.png" alt="odds_" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3200&pause=1400&color=C5DFA2&center=true&vCenter=true&width=640&lines=%3E+connection+established...;%3E+signal+source%3A+unknown;%3E+probability+of+this+profile%3A+1+in+6;%3E+you+weren't+supposed+to+find+this_" alt="...">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3200&pause=1400&color=C5DFA2&center=true&vCenter=true&width=760&lines=%3E+connection+established...;%3E+signal+source%3A+unknown;%3E+probability+of+this+profile%3A+1+in+6;%3E+you+weren't+supposed+to+find+this_" alt="...">
 </p>
 
 <p align="center">
-  <img src="assets/dice_1.gif" width="56">
-  <img src="assets/dice_2.gif" width="56">
-  <img src="assets/dice_3.gif" width="56">
-  <img src="assets/dice_4.gif" width="56">
-  <img src="assets/dice_5.gif" width="56">
-  <img src="assets/dice_6.gif" width="56">
+  <img src="dice_1.gif" width="56">
+  <img src="dice_2.gif" width="56">
+  <img src="dice_3.gif" width="56">
+  <img src="dice_4.gif" width="56">
+  <img src="dice_5.gif" width="56">
+  <img src="dice_6.gif" width="56">
 </p>
 
 <p align="center"><sub><code>one of them is lying.</code></sub></p>
 
 ---
 
-<img align="right" src="assets/monitor.gif" width="170" alt="">
+<img align="right" src="monitor.gif" width="170" alt="">
 
 ```
 > whoami
@@ -38,24 +38,39 @@
 
 <br clear="right">
 
-### `> ls ~/.artifacts`
+### `> ls ~/released`
+
+| | app | signal |
+|:-:|---|---|
+| 🔮 | [**Oracle: Find the Mole**](https://apps.apple.com/app/id1564639558) | *trust no one. not even the one who asked.* |
+| 🌀 | [**Voidbound: Sorcery TCG**](https://apps.apple.com/app/id6759371512) | *the void counts your life points so you don't have to.* |
+| 🃏 | [**Flip & Score**](https://apps.apple.com/app/id6747075064) | *push your luck. it will be written down.* |
+| 🀄 | [**RiichiClub**](https://apps.apple.com/app/id6499211526) | *the tiles are silent. the scoreboard is not.* |
+| 🪐 | [**TMHelper**](https://apps.apple.com/app/id1627456078) | *mars won't terraform itself. but it will be tracked.* |
+| ♠️ | [**PokerLog**](https://apps.apple.com/app/id1547807748) | *the house always remembers.* |
+
+### `> ls ~/open-source`
 
 ```
--r--r--r--  numbershake    shake the device. it will tell you what the numbers know.
--r--r--r--  pokerlog       every hand leaves a trace. this one keeps them.
--r--r--r--  home-poker     the bank. the blinds. the debts. settled in silence.
--r--r--r--  mahjong        144 tiles. one of them is out of place.
--rw-------  ██████████     classified. a deck is being shuffled.
+drwxr-xr-x  numbershake       shake the device. it will tell you what the numbers know.
+drwxr-xr-x  home-poker        the bank. the blinds. the debts. settled in silence.
+drwxr-xr-x  pokerlog-site     where the log leaves its manual.
+drwxr-xr-x  pokerlog-ideas    whispers from players, pinned to a board.
 ```
 
-[`Numbershake`](https://github.com/OutOfOdds/Numbershake) · [`PokerLog`](https://github.com/OutOfOdds/PokerLog) · [`Home-Poker`](https://github.com/OutOfOdds/Home-Poker) · [`mahjong`](https://github.com/OutOfOdds/mahjong) · [`the rest is on the App Store`](https://apps.apple.com/by/developer/mike-mailyan/id1547807750)
+[`Numbershake`](https://github.com/OutOfOdds/Numbershake) · [`Home-Poker`](https://github.com/OutOfOdds/Home-Poker) · [`PokerLog-Site`](https://github.com/OutOfOdds/PokerLog-Site) · [`pokerlog-ideas`](https://github.com/OutOfOdds/pokerlog-ideas)
+
+```
+-rw-------  ██████████     classified. something new is being shuffled.
+```
+
+[`→ all signals on the App Store`](https://apps.apple.com/us/developer/mike-mailyan/id1547807750)
 
 ### `> strings ./odds | head`
 
 <p>
   <img src="https://img.shields.io/badge/Swift-0d110e?style=for-the-badge&logo=swift&logoColor=E04664" alt="Swift">
   <img src="https://img.shields.io/badge/SwiftUI-0d110e?style=for-the-badge&logo=swift&logoColor=C5DFA2" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/Combine-0d110e?style=for-the-badge&logo=apple&logoColor=C5DFA2" alt="Combine">
   <img src="https://img.shields.io/badge/Xcode-0d110e?style=for-the-badge&logo=xcode&logoColor=C5DFA2" alt="Xcode">
 </p>
 
@@ -76,6 +91,6 @@ enum Odds {
 ---
 
 <p align="center">
-  <img src="assets/prompt.gif" width="120" alt=""><br>
+  <img src="prompt.gif" width="120" alt=""><br>
   <sub><code>// end of transmission. roll again?</code></sub>
 </p>
