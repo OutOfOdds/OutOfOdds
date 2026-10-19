@@ -64,7 +64,7 @@ drwxr-xr-x  pokerlog-ideas    whispers from players, pinned to a board.
 
 ```
 PID    STATE       PROCESS         NOTE
-0x07   sealed      capsula         opens only when the time is right.
+0x07   on-time     capsula         every dose has its hour. it remembers, so you don't have to.
 0x0D   dripping    drip            slowly. one drop at a time.
 0x2A   rewriting   pokerlog 2.0    the log is learning new tricks.
 0x??   ??????      ████████        and something else. you'll know when you see it.
