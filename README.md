@@ -1,7 +1,7 @@
 <!-- if you're reading the source, you're one of us. -->
 
 <p align="center">
-  <img src="header_signal_slots.gif" alt="odds_" width="100%">
+  <img src="header_odds.gif" alt="odds_" width="100%">
 </p>
 
 <p align="center">
