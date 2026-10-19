@@ -1,5 +1,7 @@
+<!-- if you're reading the source, you're one of us. -->
+
 <p align="center">
-  <img src="header.png" alt="odds_" width="100%">
+  <img src="header_signal.gif" alt="odds_" width="100%">
 </p>
 
 <p align="center">
@@ -15,9 +17,9 @@
   <img src="dice_6.gif" width="56">
 </p>
 
-<p align="center"><sub><code>one of them is lying.</code></sub></p>
+<p align="center"><sub><code>one of them is lying.</code></sub><br><sub><code>01101111 01100100 01100100 01110011</code></sub></p>
 
----
+<p align="center"><img src="divider_pulse.gif" width="100%" alt=""></p>
 
 <img align="right" src="monitor.gif" width="170" alt="">
 
@@ -42,12 +44,12 @@
 
 | | app | signal |
 |:-:|---|---|
-| 🔮 | [**Oracle: Find the Mole**](https://apps.apple.com/app/id1564639558) | *trust no one. not even the one who asked.* |
-| 🌀 | [**Voidbound: Sorcery TCG**](https://apps.apple.com/app/id6759371512) | *the void counts your life points so you don't have to.* |
-| 🃏 | [**Flip & Score**](https://apps.apple.com/app/id6747075064) | *push your luck. it will be written down.* |
-| 🀄 | [**RiichiClub**](https://apps.apple.com/app/id6499211526) | *the tiles are silent. the scoreboard is not.* |
-| 🪐 | [**TMHelper**](https://apps.apple.com/app/id1627456078) | *mars won't terraform itself. but it will be tracked.* |
-| ♠️ | [**PokerLog**](https://apps.apple.com/app/id1547807748) | *the house always remembers.* |
+| <img src="icon_oracle.gif" width="28"> | [**Oracle: Find the Mole**](https://apps.apple.com/app/id1564639558) | *trust no one. not even the one who asked.* |
+| <img src="icon_voidbound.gif" width="28"> | [**Voidbound: Sorcery TCG**](https://apps.apple.com/app/id6759371512) | *the void counts your life points so you don't have to.* |
+| <img src="icon_flipscore.gif" width="28"> | [**Flip & Score**](https://apps.apple.com/app/id6747075064) | *push your luck. it will be written down.* |
+| <img src="icon_riichi.gif" width="28"> | [**RiichiClub**](https://apps.apple.com/app/id6499211526) | *the tiles are silent. the scoreboard is not.* |
+| <img src="icon_tmhelper.gif" width="28"> | [**TMHelper**](https://apps.apple.com/app/id1627456078) | *mars won't terraform itself. but it will be tracked.* |
+| <img src="icon_pokerlog.gif" width="28"> | [**PokerLog**](https://apps.apple.com/app/id1547807748) | *the house always remembers.* |
 
 ### `> ls ~/satellites`
 
@@ -70,6 +72,8 @@ PID    STATE       PROCESS         NOTE
 0x2A   rewriting   pokerlog 2.0    the log is learning new tricks.
 0x??   ??????      ████████        and something else. you'll know when you see it.
 ```
+
+<img src="icon_capsula.gif" width="28"> <img src="icon_drip.gif" width="28"> <img src="icon_pokerlog.gif" width="28">
 
 [`→ all signals on the App Store`](https://apps.apple.com/us/developer/mike-mailyan/id1547807750)
 
@@ -95,9 +99,18 @@ enum Odds {
 
 <sub>replies are not guaranteed. but they are likely.</sub>
 
----
+<details><summary><code>▓▓▓ classified — do not open</code></summary>
+
+```
+> you opened it anyway.
+> the odds of that were 1 in 6.
+> welcome to the table.
+```
+</details>
+
+<p align="center"><img src="divider_pulse.gif" width="100%" alt=""></p>
 
 <p align="center">
-  <img src="prompt.gif" width="120" alt=""><br>
+  <img src="footer_tvoff.gif" width="220" alt=""><br>
   <sub><code>// end of transmission. roll again?</code></sub>
 </p>
