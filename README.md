@@ -52,13 +52,12 @@
 ### `> ls ~/open-source`
 
 ```
-drwxr-xr-x  numbershake       shake the device. it will tell you what the numbers know.
 drwxr-xr-x  home-poker        the bank. the blinds. the debts. settled in silence.
 drwxr-xr-x  pokerlog-site     where the log leaves its manual.
 drwxr-xr-x  pokerlog-ideas    whispers from players, pinned to a board.
 ```
 
-[`Numbershake`](https://github.com/OutOfOdds/Numbershake) · [`Home-Poker`](https://github.com/OutOfOdds/Home-Poker) · [`PokerLog-Site`](https://github.com/OutOfOdds/PokerLog-Site) · [`pokerlog-ideas`](https://github.com/OutOfOdds/pokerlog-ideas)
+[`Home-Poker`](https://github.com/OutOfOdds/Home-Poker) · [`PokerLog-Site`](https://github.com/OutOfOdds/PokerLog-Site) · [`pokerlog-ideas`](https://github.com/OutOfOdds/pokerlog-ideas)
 
 ### `> ps aux | grep wip`
 
