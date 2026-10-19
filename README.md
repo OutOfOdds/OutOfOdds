@@ -49,7 +49,9 @@
 | 🪐 | [**TMHelper**](https://apps.apple.com/app/id1627456078) | *mars won't terraform itself. but it will be tracked.* |
 | ♠️ | [**PokerLog**](https://apps.apple.com/app/id1547807748) | *the house always remembers.* |
 
-### `> ls ~/open-source`
+### `> ls ~/satellites`
+
+<sub>small things orbiting the bigger ones.</sub>
 
 ```
 drwxr-xr-x  home-poker        the bank. the blinds. the debts. settled in silence.
