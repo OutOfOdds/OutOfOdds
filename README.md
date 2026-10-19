@@ -106,8 +106,6 @@ enum Odds {
 ```
 </details>
 
-<p align="center"><img src="divider_pulse.gif" width="100%" alt=""></p>
-
 <p align="center">
   <img src="footer_tvoff.gif" width="220" alt=""><br>
   <sub><code>// end of transmission. roll again?</code></sub>
