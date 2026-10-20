@@ -1,7 +1,7 @@
 <!-- if you're reading the source, you're one of us. -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=24&duration=3400&pause=1800&color=C9CBC3&center=true&vCenter=true&width=760&height=60&lines=%3E+odds_;%3E+signal+source%3A+unknown;%3E+connection+established...;%3E+you+weren't+supposed+to+find+this." alt="> odds_">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=24&duration=3400&pause=1800&color=C9CBC3&center=true&vCenter=true&width=760&height=60&lines=%3E+odds;%3E+signal+source%3A+unknown;%3E+connection+established...;%3E+you+weren't+supposed+to+find+this." alt="> odds">
 </p>
 
 <br>
