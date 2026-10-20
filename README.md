@@ -13,7 +13,6 @@
 
 <br>
 
-<p align="center"><img src="divider_quiet.png" width="100%" alt=""></p>
 
 <br>
 
@@ -41,7 +40,6 @@
 
 <br>
 
-<p align="center"><img src="divider_quiet.png" width="100%" alt=""></p>
 
 <details align="center"><summary><sub><code>▓▓▓</code></sub></summary>
 <p align="center"><sub>you opened it anyway. the odds of that were 1 in 6.</sub><br>
