@@ -13,10 +13,6 @@
 
 <br>
 
-<p align="center"><img src="divider_quiet.png" width="100%" alt=""></p>
-
-<br>
-
 <p align="center"><sub><code>R E L E A S E D</code></sub></p>
 
 <p align="center">
@@ -40,9 +36,6 @@
 </p>
 
 <br>
-
-<p align="center"><img src="divider_quiet.png" width="100%" alt=""></p>
-
 <details align="center"><summary><sub><code>▓▓▓</code></sub></summary>
 <p align="center"><sub>you opened it anyway. the odds of that were 1 in 6.</sub><br>
 <sub><a href="mailto:Mihomailian@gmail.com">open a channel</a> — replies are not guaranteed.</sub></p>
