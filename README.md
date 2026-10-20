@@ -17,7 +17,7 @@
 
 <br>
 
-<code>&gt; ls ~/released</code>
+<code>&gt; ls ~/released</code> &nbsp;<sub>— released</sub>
 
 <p>
   <img src="icon_oracle.gif" width="22" align="top" alt=""> &nbsp;<a href="https://apps.apple.com/app/id1564639558"><code>oracle</code></a> &nbsp;<sub>knows more than it says.</sub><br>
@@ -30,7 +30,7 @@
 
 <br>
 
-<code>&gt; ps aux | grep wip</code>
+<code>&gt; ps aux | grep wip</code> &nbsp;<sub>— in progress</sub>
 
 <p>
   <img src="icon_capsula.gif" width="22" align="top" alt=""> &nbsp;<code>capsula</code> &nbsp;<sub>every dose has its hour.</sub><br>
