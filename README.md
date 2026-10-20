@@ -43,9 +43,10 @@
 
 <p align="center"><img src="divider_quiet.png" width="100%" alt=""></p>
 
+<p align="center"><sub><a href="mailto:Mihomailian@gmail.com">Mihomailian@gmail.com</a> &nbsp;·&nbsp; <a href="https://outofodds.github.io">outofodds.github.io</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/developer/mike-mailyan/id1547807750">app store</a></sub></p>
+
 <details align="center"><summary><sub><code>▓▓▓</code></sub></summary>
-<p align="center"><sub>you opened it anyway.</sub><br>
-<sub><a href="mailto:Mihomailian@gmail.com">open a channel</a> — replies are not guaranteed.</sub></p>
+<p align="center"><sub>you opened it anyway.</sub></p>
 </details>
 
 <p align="center"><sub><code>// you were never here.</code></sub></p>
